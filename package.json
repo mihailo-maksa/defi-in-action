@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bn.js": "^5.2.0",
+    "ethers": "^5.6.5"
+  }
+}
